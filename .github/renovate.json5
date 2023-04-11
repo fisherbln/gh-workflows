@@ -1,10 +1,10 @@
 {
   extends: [
-    "github>bjw-s/renovate-config",
-    "github>bjw-s/renovate-config:automerge-github-actions",
+    "github>fisherbln/renovate-config",
+    "github>fisherbln/renovate-config:automerge-github-actions",
   ],
   platform: "github",
-  username: "bjw-s-bot[bot]",
-  gitAuthor: "bjw-s-bot <87358111+bjw-s-bot[bot]@users.noreply.github.com>",
-  repositories: ["bjw-s/gh-workflows"],
+  username: "HomeOpsBot[bot]",
+  gitAuthor: "HomeOpsBot <98030736+homeopsbot[bot]@users.noreply.github.com>",
+  repositories: ["fisherbln/gh-workflows"],
 }
